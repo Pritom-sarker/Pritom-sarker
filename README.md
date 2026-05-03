@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.pritom.work/">portfolio</a> •
-  <a href="[https://www.linkedin.com/in/me-pritom/](https://www.linkedin.com/in/im-pritom/)">linkedin</a> •
+  <a href="https://www.linkedin.com/in/me-pritom/">linkedin</a> •
   <a href="mailto:me.pritom@gmail.com">contact</a>
 </p>
 
